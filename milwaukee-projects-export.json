@@ -1,0 +1,68 @@
+[
+  {
+    "id": "milwaukee-car-brain",
+    "name": "Milwaukee Car Brain",
+    "description": "Quantitative research to inform local officials about costs and issues of auto-dependence in Milwaukee",
+    "status": "Planning",
+    "startDate": "2025-10-23",
+    "endDate": "2026-08-31",
+    "chapters": [
+      {
+        "id": "ch1",
+        "title": "What is Car Brain?",
+        "notes": "Literature review - Ian Walker's work and other researchers"
+      },
+      {
+        "id": "ch2",
+        "title": "How Milwaukee Got Here",
+        "notes": "Historical development of auto-dependence"
+      },
+      {
+        "id": "ch3",
+        "title": "The Personal Burden",
+        "notes": "Individual costs of car ownership, time, stress"
+      },
+      {
+        "id": "ch4",
+        "title": "Municipal Hemorrhaging",
+        "notes": "Infrastructure maintenance, parking, opportunity costs"
+      },
+      {
+        "id": "ch5",
+        "title": "Society Pays the Price",
+        "notes": "Health, environment, equity, social isolation"
+      },
+      {
+        "id": "ch6",
+        "title": "Supersizing the Fleet",
+        "notes": "Trends in vehicle size over time"
+      },
+      {
+        "id": "ch7",
+        "title": "Cascading Consequences",
+        "notes": "Parking, road wear, safety, insurance costs"
+      },
+      {
+        "id": "ch8",
+        "title": "The Mobility Tax",
+        "notes": "What it means when everyone must own a car"
+      },
+      {
+        "id": "ch9",
+        "title": "Who Gets Left Behind",
+        "notes": "Equity and access issues"
+      },
+      {
+        "id": "ch10",
+        "title": "The Evidence for Change",
+        "notes": "Case studies, data"
+      },
+      {
+        "id": "ch11",
+        "title": "Tools for Elected Officials",
+        "notes": "Policy recommendations, political framing"
+      }
+    ],
+    "generalNotes": "Focus areas:\n- Costs to people, government, society\n- Vehicle size impacts\n- Universal car ownership implications\n- Supporting elected officials in controversial decisions"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "milwaukee-car-brain",
+    "name": "Milwaukee Car Brain",
+    "description": "Quantitative research to inform local officials about costs and issues of auto-dependence in Milwaukee",
+    "status": "Planning",
+    "startDate": "2025-10-26",
+    "endDate": "2026-08-31",
+    "chapters": [
+      {
+        "id": "ch1",
+        "title": "What is Car Brain?",
+        "notes": "Literature review - Ian Walker's work and other researchers"
+      },
+      {
+        "id": "ch2",
+        "title": "How Milwaukee Got Here",
+        "notes": "Historical development of auto-dependence\n\nMilwaukee's current state:\n- City: 96 sq mi, ~577k people, ~6,000 people/sq mi (DANGER ZONE)\n- County: 241 sq mi, ~939k people, ~3,900 people/sq mi (still comfortable for driving)\n- Post-WWII suburban expansion pattern\n- City at critical threshold where car system quality starts degrading\n- Early symptoms likely appearing: traffic, parking complaints, opposition to density\n\nThe Growth Trap:\n- If city densifies to 1M people: ~10,400/sq mi (car system breaks down)\n- If county grows to 1M people: ~4,150/sq mi (stays car-friendly but hits commute distance limits)\n- Political tension: suburbs can still drive fine while city struggles"
+      },
+      {
+        "id": "ch3",
+        "title": "The Vehicle Size Spiral",
+        "notes": "Trends in vehicle size over time - establishing the observable trend\n\nThe Geometry Problem connection:\n- Milwaukee at ~6k people/sq mi is in the critical 5-10k \"it depends\" zone\n- Vehicle size makes geometry problem worse (more space needed)\n- At this density threshold, bigger vehicles accelerate the shift from \"driving works\" to \"driving doesn't work\"\n- SUVs/trucks require wider lanes, larger parking spaces\n\nSource: \"The Geometry Problem\" - postsuburban.substack.com\n\nVEHICLE SIZE DATA (EPA):\n\nWeight Trends:\n- Since 1975: weight increased overall, most growth 1985-2004\n- Since 2004: weight increased 4-5% through 2023\n- Model year 2023: weight at historic highs\n\nFootprint Trends (area enclosed by four tires):\n- EPA began tracking footprint in 2008\n- Since 2008: average footprint increased 6%, now at 50.8 square feet\n- At historic highs\n\nBy Vehicle Type (2008-2016 increases):\n- Pickup trucks: +1.5 ft² (2.4%)\n- Cars: +1.0 ft² (2.1%)\n- Minivans/vans: +1.0 ft² (1.9%)\n- Truck SUVs: +0.4 ft² (0.7%)\n\nMarket Shift:\n- 2011-2022: footprint increased ~4% while sales shifted from cars to light trucks\n- Model year 2022: 81% of new vehicles were \"trucks\" (SUVs, pickups) - highest since at least 1975\n\nThe Regulatory Incentive Problem:\n- Since 2012: GHG/CAFE standards are footprint-based\n- Larger vehicles get weaker emissions standards\n- Creates incentive to increase size by 2-32%\n- Undermines fuel economy gains by 1-4 mpg\n\nSources: EPA Automotive Trends Reports\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nSPECIFIC VEHICLE SIZE DATA COLLECTION PLAN\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nTARGET VEHICLES (Car, SUV, Truck for each brand):\n\nFORD:\n• Taurus (sedan) - or Focus if better data available\n• Explorer (SUV)\n• F-150 (pickup truck)\n\nTOYOTA:\n• Camry (sedan) - best-selling car in America\n• RAV4 (compact SUV) - best-selling SUV\n• Tundra (full-size pickup) - or Tacoma (mid-size)\n\nCHEVROLET:\n• Malibu (sedan) - or Impala\n• Tahoe or Equinox (SUV)\n• Silverado (pickup truck) - F-150 competitor\n\nTARGET YEARS (milestone approach):\n• 1990 - baseline (pre-SUV boom)\n• 1995 - SUV boom beginning\n• 2000 - peak first SUV wave\n• 2005 - mid-2000s\n• 2010 - post-recession\n• 2015 - modern era\n• 2020 - recent\n• 2024 - current\n\nDATA POINTS FOR EACH VEHICLE/YEAR:\n□ Length (inches)\n□ Width (inches)\n□ Height (inches)\n□ Curb weight (lbs)\n□ Wheelbase (inches)\n□ Annual US sales figures\n□ Fuel economy (contextualizes footprint standards)\n\nDATA SOURCES:\n\nPrimary:\n1. EPA Fuel Economy Database (fueleconomy.gov) - searchable, downloadable\n2. Edmunds.com Used Car Specifications - comprehensive, reliable\n3. Cars.com Historical Specs - good cross-check\n\nSecondary:\n4. Auto-data.net / automobile-catalog.com - detailed international data\n5. UMTRI (U-Michigan Transportation Research) - vehicle size trend reports\n6. Manufacturer media centers - Ford, Toyota, GM archives\n\nSales Data:\n7. GoodCarBadCar.net - historical sales by model\n8. Carsalesbase.com - US sales data\n9. Manufacturer annual reports\n\nDATA ORGANIZATION:\nCreate spreadsheet with tabs:\n- Ford vehicles\n- Toyota vehicles\n- Chevrolet vehicles\n- Summary comparisons\n- Visualizations\n\nANALYSIS TO PRODUCE:\n□ Growth percentages (1990 vs 2024) by vehicle type\n□ Visual overlays showing size increases\n□ Weight-to-sales correlations\n□ Parking space implications (how many 1990 vehicles fit in 2024 space?)\n□ Cross-brand validation (do all show same trend?)\n□ Category creep (today's \"compact\" vs yesterday's \"full-size\")\n\nTIMELINE ESTIMATE:\n- 2-3 hours per vehicle comprehensive data collection\n- ~20-30 hours total for all 9 vehicles\n- Plus analysis and visualization time\n\nQUICK WIN - Ford Explorer (COMPLETED):\nGen 1 (1991): 184.5\"L × 70\"W × 67.5\"H, 4,015-4,292 lbs\nGen 6 (2024): 198.8\"L × 78.5\"W × 69.9\"H, 4,345-4,727 lbs\nGrowth: +14.3\"L (+7.8%), +8.5\"W (+12.1%), +2.4\"H, +330-710 lbs\n\nNEXT STEPS:\n1. Start with best-sellers (F-150, Camry, RAV4) - most documented\n2. Create data collection template\n3. Build one complete example to establish pattern\n4. Replicate for remaining vehicles"
+      },
+      {
+        "id": "ch4",
+        "title": "Personal Cascades",
+        "notes": "Financial burden, time burden, stress, personal isolation (Putnam connection)"
+      },
+      {
+        "id": "ch5",
+        "title": "Municipal Cascades",
+        "notes": "Infrastructure maintenance, parking, budget impacts, opportunity costs\n\nThe City/County Divide:\n- City officials dealing with 6k density problems (traffic, parking stress)\n- County overall still at 3.9k (suburbs driving fine)\n- Creates political disconnect: \"Why does the city need transit/bike infrastructure?\"\n- City can't grow without either: (a) breaking car system entirely, or (b) adding alternatives\n- County already near maximum sprawl limits (Marchetti constant)\n\nMunicipal costs concentrated in the city:\n- Dense areas bear maintenance costs of car infrastructure designed for lower densities\n- Parking requirements consume valuable urban land\n- Infrastructure costs don't scale linearly - denser areas pay more per capita\n\nThe Political Trap:\n- State legislature (conservative-controlled) resistant to funding Milwaukee transit\n- Rural/suburban legislators don't see the problem (their density works for cars)\n- Milwaukee facing backlash from both suburbs AND rest of state\n- City stuck with costs of car infrastructure but blocked from alternatives\n- Must make the economic case: Milwaukee's economic health matters to entire state"
+      },
+      {
+        "id": "ch6",
+        "title": "Social Cascades",
+        "notes": "Civil society breakdown (Putnam's Bowling Alone), equity, who gets left behind"
+      },
+      {
+        "id": "ch7",
+        "title": "The Evidence for Change",
+        "notes": "Case studies, data"
+      },
+      {
+        "id": "ch8",
+        "title": "Tools for Elected Officials",
+        "notes": "Policy recommendations, political framing\n\nFraming for political reality:\n- Must work within hostile state legislative environment\n- Need arguments that resonate beyond Milwaukee (economic growth benefits entire state)\n- Frame as \"fiscal responsibility\" not \"war on cars\"\n- Emphasize choice and freedom (not forcing anyone to give up cars)\n- Show how car-only policy is expensive subsidy that hurts taxpayers\n\nStrategies that don't require state funding:\n- Zoning reform (eliminate parking minimums, allow missing middle housing)\n- Complete streets policies (repurpose existing ROW)\n- Bike infrastructure (cheap, popular, immediate benefits)\n- Walkability improvements\n- Incremental changes that demonstrate value before asking for state transit funds\n\nMaking the economic case:\n- Milwaukee is state's economic engine\n- If Milwaukee can't grow, state economy suffers\n- Young talent wants walkable neighborhoods\n- Companies locate where talent wants to live"
+      }
+    ],
+    "generalNotes": "Focus areas:\n- Costs to people, government, society\n- Vehicle size impacts\n- Universal car ownership implications\n- Supporting elected officials in controversial decisions\n\nKEY FINDING: Milwaukee's population density is ~6,000 people/sq mi - right in the \"danger zone\" (5-10k) where:\n- Car system starts to degrade\n- Transit \"doesn't work yet\" (Missing Middle trap)\n- Vehicle size matters MOST\n- Window is closing for Milwaukee to adapt before getting stuck"
+  }
+]

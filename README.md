@@ -13,7 +13,7 @@ This book examines auto-dependence from multiple angles:
 
 ```r
 # Set working directory
-setwd("~/Library/Mobile Documents/com~apple~CloudDocs/Milwaukee Car Brain Project")
+setwd("~/Library/Mobile Documents/com~apple~CloudDocs/Milwaukee Car Brain Project/mke-car-brain")
 
 # Load the main workflow
 source("scripts/vehicle_data_collector.R")

@@ -4,6 +4,12 @@
 # Run this ONCE to set up your project directory structure
 # =============================================================================
 
+# Load required library
+if (!require("glue", quietly = TRUE)) {
+  install.packages("glue")
+  library(glue)
+}
+
 # Set your project directory (iCloud Drive)
 PROJECT_DIR <- "~/Library/Mobile Documents/com~apple~CloudDocs/Milwaukee Car Brain Project"
 

@@ -1,0 +1,72 @@
+year,make,model,cylinders,displ,fuel_econ_city,fuel_econ_hwy,fuel_econ_combined,fuel_type
+1995,Ford,Taurus,6,3,18,27,21,Regular
+1995,Ford,Taurus,6,3.8,17,26,20,Regular
+1995,Toyota,Camry,4,2.2,19,26,21,Regular
+1995,Toyota,Camry,4,2.2,20,29,23,Regular
+1995,Toyota,Camry,6,3,18,26,21,Regular
+2000,Chevrolet,Malibu,4,2.4,19,28,23,Regular
+2000,Chevrolet,Malibu,6,3.1,18,27,21,Regular
+2000,Toyota,Camry,4,2.2,20,28,23,Regular
+2000,Toyota,Camry,4,2.2,21,29,24,Regular
+2000,Toyota,Camry,6,3,17,25,20,Regular
+2000,Toyota,Camry,6,3,18,26,21,Regular
+2000,Chevrolet,Impala,6,3.4,17,29,21,Regular
+2000,Chevrolet,Impala,6,3.8,17,27,21,Regular
+2000,Chevrolet,Impala,6,3.8,17,27,21,Regular
+2000,Ford,Taurus,6,3,17,26,20,Regular
+2000,Ford,Taurus,6,3,17,26,20,Regular
+2000,Ford,Taurus,6,3,17,26,20,Gasoline or E85
+2005,Chevrolet,Malibu,4,2.2,21,32,25,Regular
+2005,Chevrolet,Malibu,6,3.5,20,29,23,Regular
+2005,Toyota,Camry,4,2.4,21,31,25,Regular
+2005,Toyota,Camry,4,2.4,21,30,24,Regular
+2005,Toyota,Camry,6,3,18,26,21,Regular
+2005,Toyota,Camry,6,3.3,18,27,21,Regular
+2005,Chevrolet,Impala,6,3.4,19,29,22,Regular
+2005,Chevrolet,Impala,6,3.8,17,26,20,Premium
+2005,Chevrolet,Impala,6,3.8,18,27,21,Regular
+2005,Ford,Taurus,6,3,18,25,20,Regular
+2005,Ford,Taurus,6,3,18,25,20,Regular
+2005,Ford,Taurus,6,3,17,25,20,Gasoline or E85
+2010,Toyota,Camry,4,2.5,22,33,26,Regular
+2010,Toyota,Camry,4,2.5,22,32,26,Regular
+2010,Toyota,Camry,6,3.5,19,28,23,Regular
+2010,Chevrolet,Malibu,6,3.5,18,29,22,Regular
+2010,Chevrolet,Malibu,6,3.5,19,29,23,Gasoline or E85
+2010,Chevrolet,Malibu,4,2.4,22,33,26,Regular
+2010,Chevrolet,Malibu,6,3.6,17,26,20,Regular
+2010,Chevrolet,Malibu,4,2.4,22,33,26,Gasoline or E85
+2010,Chevrolet,Malibu,4,2.4,22,30,25,Regular
+2010,Chevrolet,Malibu,4,2.4,22,30,25,Gasoline or E85
+2010,Chevrolet,Impala,6,3.9,17,27,21,Gasoline or E85
+2010,Chevrolet,Impala,6,3.5,18,29,22,Regular
+2010,Chevrolet,Impala,6,3.5,18,29,22,Gasoline or E85
+2015,Chevrolet,Malibu,4,2.5,25,36,29,Regular
+2015,Chevrolet,Malibu,4,2,21,29,24,Regular
+2015,Chevrolet,Impala,6,3.6,18,28,21,Regular
+2015,Chevrolet,Impala,6,3.6,19,28,22,Gasoline or E85
+2015,Chevrolet,Impala,4,2.5,22,31,25,Regular
+2015,Toyota,RAV4,4,2.5,23,30,26,Regular
+2015,Toyota,Camry,4,2.5,25,34,28,Regular
+2015,Toyota,Camry,6,3.5,21,30,25,Regular
+2020,Chevrolet,Malibu,4,2,22,32,26,Premium
+2020,Chevrolet,Malibu,4,1.5,29,36,32,Regular
+2020,Chevrolet,Impala,6,3.6,19,28,22,Regular
+2020,Chevrolet,Impala,6,3.6,18,28,22,Gasoline or E85
+2020,Toyota,Camry,6,3.5,22,33,26,Regular
+2020,Toyota,Camry,4,2.5,29,41,34,Regular
+2020,Toyota,RAV4,4,2.5,27,35,30,Regular
+2020,Toyota,RAV4,4,2.5,28,35,30,Regular
+2024,Toyota,Camry,6,3.5,22,33,26,Regular
+2024,Toyota,RAV4,4,2.5,27,35,30,Regular
+2024,Chevrolet,Malibu,4,1.5,28,36,31,Regular
+1990,Toyota,Camry,4,2,22,28,24,Regular
+1990,Toyota,Camry,4,2,19,22,20,Regular
+1990,Toyota,Camry,4,2,21,29,24,Regular
+1990,Toyota,Camry,4,2,19,25,21,Regular
+1990,Toyota,Camry,4,2,23,31,26,Regular
+1990,Toyota,Camry,6,2.5,17,23,19,Regular
+1990,Toyota,Camry,6,2.5,17,24,19,Regular
+1990,Ford,Taurus,4,2.5,18,24,20,Regular
+1990,Ford,Taurus,6,3,18,26,21,Regular
+1990,Ford,Taurus,6,3.8,17,26,20,Regular
